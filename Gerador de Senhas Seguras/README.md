@@ -1,0 +1,1 @@
+Um gerador de senhas seguro e confiável ;)
