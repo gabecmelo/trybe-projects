@@ -8,6 +8,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   min-height: 90vh;
   background-color: rgb(38, 38, 38);
   font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -50,4 +51,9 @@ h1 {
 
 p {
   margin-top: 15px;
+}
+
+footer {
+  position: fixed;
+  bottom: 5px;
 }
